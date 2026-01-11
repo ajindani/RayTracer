@@ -17,8 +17,11 @@ A ray tracer that implements Ambient, Diffuse, and Specular (ADS) lighting, with
 The program assumes the input scene file is located in the same directory as RayTracer.py.
 
 Run the ray tracer using: 
+
 python RayTracer.py inputFileName.txt 
+
 or 
+
 py RayTracer.py inputFileName.txt 
 
 Note: Running the program on a test file will overwrite the existing PPM output for that test case.
